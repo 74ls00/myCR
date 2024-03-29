@@ -141,8 +141,10 @@ G:\home\Documents\0-CR\2023
 3 34	746357			522.55	59.88			70012			82.18
 2024 03 28
 18 37	750619			533.69	58.67			71100	4891	83.36
+2024 03 29
+time	btc		usd		mo		alg		btcusd	moru	usdru
+19 07	753405	521.43	61.6  cfx+alph  69210	5241	85.09
 
-time	btc		usd		mo	alg		btcusd	moru	usdru
 
 
 
