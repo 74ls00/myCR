@@ -163,6 +163,12 @@ time	btc		usd		mo		alg		btcusd	moru  advusdru
 2024 04 02	https://www.bestchange.ru/tether-trc20-to-yoomoney.html
 20 08	764000	501.44	72.72 iron^upd	65633	6647	92.07 (от100)
 23 35	764362	503.68	42.62			65895	3832	89.91
+2024 04 03
+2 56	764700	499.81	53.35			65359	4641	92.06
+20 43	766342	505.72					65990			92.19
+
+
+
 
 
 
